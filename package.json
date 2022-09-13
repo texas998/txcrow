@@ -1,5 +1,5 @@
 {
-    "name": "txcrow",
+    "name": "texas-crow-com",
     "theme": "syntax",
     "version": "0.0.0",
     "description": "เว็บสล็อต เว็บตรง texas-crow",
@@ -7,10 +7,7 @@
         "slot",
         "texas-crow"
     ],
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/texas998/txcrow"
-    },
+    "repository": "https://github.com/texas998/txcrow",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
