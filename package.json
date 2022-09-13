@@ -7,7 +7,10 @@
         "slot",
         "texas-crow"
     ],
-    "repository": "https://github.com/texas998/txcrow",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/texas998/txcrow"
+    },
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
